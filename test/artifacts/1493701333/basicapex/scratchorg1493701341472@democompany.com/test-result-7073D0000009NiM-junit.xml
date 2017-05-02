@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2017-05-02T10:32:58+05:30" hostname="https://java-computing-2490-dev-ed.cs70.my.salesforce.com" tests="2" failures="0"  errors="0"  time="0.12">
+        <properties>
+            <property name="outcome" value="Passed"/>
+            <property name="testsRan" value="2"/>
+            <property name="passing" value="2"/>
+            <property name="failing" value="0"/>
+            <property name="passRate" value="100%"/>
+            <property name="failRate" value="0%"/>
+            <property name="testStartTime" value="May 2, 2017 10:32 AM"/>
+            <property name="testExecutionTime" value="0.12 s"/>
+            <property name="testTotalTime" value="0.12 s"/>
+            <property name="commandTime" value="7.54 s"/>
+            <property name="testRunId" value="7073D0000009NiM"/>
+            <property name="hostname" value="https://java-computing-2490-dev-ed.cs70.my.salesforce.com"/>
+            <property name="orgId" value="00D3D0000008cKkUAI"/>
+            <property name="username" value="scratchorg1493701341472@democompany.com"/>
+            <property name="userId" value="0053D000000HvNJQA0"/>
+        </properties>
+        <testcase name="testmycontact" classname="TestContact"  time="0.09">
+        </testcase>
+        <testcase name="testdata" classname="TestCreateRecord_AC"  time="0.03">
+        </testcase>
+    </testsuite>
+</testsuites>
